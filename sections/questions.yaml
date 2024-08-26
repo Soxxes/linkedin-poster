@@ -1,0 +1,28 @@
+questions:
+  - id: "q1"
+    type: "text"
+    question: "Was machst du?"
+    group: 1
+  - id: "q2"
+    type: "text"
+    question: "Wie nennt man das?"
+    group: 1
+  - id: "q3"
+    type: "text"
+    question: "Für wen ist das?"
+    group: 1
+  - id: "q4"
+    type: "text"
+    question: "Welches Format willst du kreieren?"
+    group: 2
+    options:
+      - "Hook / Conclusion"
+      - "Carousel"
+  - id: "q5"
+    type: "radio"
+    question: "Welchen Typ ist der Post am ehesten zugeordnet?"
+    group: 3
+    options:
+      - "Listicle"
+      - "Heutige Erkenntnis"
+      - "Leute, die du bewunderst"
